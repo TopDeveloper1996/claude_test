@@ -1,0 +1,876 @@
+{
+  "company_info": {
+    "name": "ZINNI NICOLA ANTONIO",
+    "Business process type": null,
+    "good or service distribution": null,
+    "process inputs": null,
+    "business process output": null,
+    "customers description": null,
+    "ateco code": "45.20.2",
+    "ateco description": null,
+    "rea number": "REA CH - 186601"
+  },
+  "summary_metrics": {
+    "valuta": "Eu",
+    "Fatturato YTD": 19719.04,
+    "Costi al netto delle tasse": 9695.989999999998,
+    "Crescita fatturato": "-0.29013122771877314%",
+    "Tasse": 0,
+    "Fatturato Da fatture": 19719.04,
+    "Fatturato Da corrispettivi": 0,
+    "Clienti attivi": 17,
+    "Nuovi clienti": 17,
+    "Clienti inattivi": 18,
+    "IVA DaFatture Passive": 2064.2599999999998,
+    "IVA Da Fatture Attive": 0,
+    "IVA Da Corrispettivi incassati": 0,
+    "Ricavi": {
+      "Da inizio anno": "19,719.04",
+      "Ultimo anno ad oggi": "27,778.43",
+      "Variazione %": "-29.0%%",
+      "Ultimi 12 mesi": "19,719.04",
+      "Precedenti 12 mesi in partenza da 12 mesi fa": "29,834.05",
+      "Variazione(1) %": "-33.9%%"
+    },
+    "Costi": {
+      "Da inizio anno": "9,695.99",
+      "Ultimo anno ad oggi": "11,674.48",
+      "Variazione %": "-37.8%%",
+      "Ultimi 12 mesi": "10,201.21",
+      "Precedenti 12 mesi in partenza da 12 mesi fa": "16,888.25",
+      "Variazione(1) %": "-21.2%%"
+    },
+    "Ebitda": null,
+    "Utile Netto": null,
+    "Marginalita": {
+      "Da inizio anno": "10,023.05",
+      "Ultimo anno ad oggi": "15,668.95",
+      "Variazione %": "-36.0%%",
+      "Ultimi 12 mesi": "9,517.83",
+      "Precedenti 12 mesi in partenza da 12 mesi fa": "16,401.25",
+      "Variazione(1) %": "-42.0%%"
+    }
+  },
+  "charts": [
+    {
+      "name": "Andamento costi e ricavi nel periodo selezionato",
+      "type": "line",
+      "x_axis": [
+        "gen 24",
+        "feb 24",
+        "mar 24",
+        "apr 24",
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24"
+      ],
+      "y_axis_range": [
+        -1678.4850000000001,
+        5667.135
+      ],
+      "period": [
+        "1/1/2024",
+        "12/31/2024"
+      ],
+      "ricavi": [
+        1150,
+        0,
+        2220,
+        3380,
+        0,
+        1004.04,
+        1390,
+        1600,
+        2390,
+        180,
+        5055,
+        0
+      ],
+      "costi": [
+        410.31,
+        842.13,
+        1707.82,
+        519.97,
+        1066.35,
+        472.78000000000003,
+        970.8599999999999,
+        907.9000000000001,
+        895.04,
+        935.9,
+        880.8700000000001,
+        86.06
+      ],
+      "ebitda": [
+        739.69,
+        -842.13,
+        512.1800000000001,
+        2860.0299999999997,
+        -1066.35,
+        531.26,
+        419.1400000000001,
+        692.0999999999999,
+        1494.96,
+        -755.9,
+        4174.13,
+        -86.06
+      ],
+      "margine_lordo": null,
+      "profitto_netto": [
+        739.69,
+        -842.13,
+        512.1800000000001,
+        2860.0299999999997,
+        -1066.35,
+        531.26,
+        419.1400000000001,
+        692.0999999999999,
+        1494.96,
+        -755.9,
+        4174.13,
+        -86.06
+      ]
+    },
+    {
+      "name": "Cash flow projection",
+      "type": "line",
+      "x_axis": [
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24",
+        "gen 25",
+        "feb 25",
+        "mar 25",
+        "apr 25",
+        "mag 25"
+      ],
+      "y_axis_range": [
+        -505.5,
+        5560.5
+      ],
+      "period": [
+        "5/1/2024",
+        "5/1/2025"
+      ],
+      "ricavi": [
+        0,
+        1004.04,
+        1390,
+        1600,
+        2390,
+        180,
+        5055,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1350
+      ],
+      "costi": [
+        297.56,
+        218.41000000000003,
+        1200.0500000000002,
+        954.62,
+        1293.04,
+        1177.55,
+        666.1800000000001,
+        136.06,
+        272.28999999999996,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Focus ricavi",
+      "type": "line",
+      "x_axis": [
+        "gen 24",
+        "feb 24",
+        "mar 24",
+        "apr 24",
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24"
+      ],
+      "y_axis_range": [
+        -720,
+        7920
+      ],
+      "period": [
+        "1/1/2024",
+        "12/31/2024"
+      ],
+      "anno_corrente": [
+        1150,
+        0,
+        2220,
+        3380,
+        0,
+        1004.04,
+        1390,
+        1600,
+        2390,
+        180,
+        5055,
+        0
+      ],
+      "anno_precedente": [
+        4330,
+        662,
+        7200,
+        1100,
+        4877.55,
+        3100,
+        803,
+        815.79,
+        1810,
+        550,
+        0,
+        2530.09
+      ]
+    },
+    {
+      "name": "Focus costi",
+      "type": "line",
+      "x_axis": [
+        "gen 24",
+        "feb 24",
+        "mar 24",
+        "apr 24",
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24"
+      ],
+      "y_axis_range": [
+        -194.85200000000003,
+        2691.7720000000004
+      ],
+      "period": [
+        "1/1/2024",
+        "12/31/2024"
+      ],
+      "anno_corrente": [
+        410.31,
+        842.13,
+        1707.82,
+        519.97,
+        1066.35,
+        472.78000000000003,
+        970.8599999999999,
+        907.9000000000001,
+        895.04,
+        935.9,
+        880.8700000000001,
+        86.06
+      ],
+      "anno_precedente": [
+        1100.25,
+        595.92,
+        1384.22,
+        298.2,
+        2037.76,
+        1843.7599999999998,
+        494.42,
+        45.7,
+        2451.2200000000003,
+        559.75,
+        481.7,
+        505.22
+      ]
+    },
+    {
+      "name": "EBITDA",
+      "type": "line",
+      "x_axis": [
+        "gen 24",
+        "feb 24",
+        "mar 24",
+        "apr 24",
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24"
+      ],
+      "y_axis_range": [
+        -1754.5629999999999,
+        6503.9929999999995
+      ],
+      "period": [
+        "1/1/2024",
+        "12/31/2024"
+      ],
+      "anno_corrente": [
+        739.69,
+        -842.13,
+        512.1800000000001,
+        2860.0299999999997,
+        -1066.35,
+        531.26,
+        419.1400000000001,
+        692.0999999999999,
+        1494.96,
+        -755.9,
+        4174.13,
+        -86.06
+      ],
+      "anno_precedente": [
+        3229.75,
+        66.08000000000004,
+        5815.78,
+        801.8,
+        2839.79,
+        1256.2400000000002,
+        308.58,
+        770.0899999999999,
+        -641.2200000000003,
+        -9.75,
+        -481.7,
+        2024.8700000000001
+      ]
+    },
+    {
+      "name": "Utile di periodo",
+      "type": "line",
+      "x_axis": [
+        "gen 24",
+        "feb 24",
+        "mar 24",
+        "apr 24",
+        "mag 24",
+        "giu 24",
+        "lug 24",
+        "ago 24",
+        "set 24",
+        "ott 24",
+        "nov 24",
+        "dic 24"
+      ],
+      "y_axis_range": [
+        -1754.5629999999999,
+        6503.9929999999995
+      ],
+      "period": [
+        "1/1/2024",
+        "12/31/2024"
+      ],
+      "anno_corrente": [
+        739.69,
+        -842.13,
+        512.1800000000001,
+        2860.0299999999997,
+        -1066.35,
+        531.26,
+        419.1400000000001,
+        692.0999999999999,
+        1494.96,
+        -755.9,
+        4174.13,
+        -86.06
+      ],
+      "anno_precedente": [
+        3229.75,
+        66.08000000000004,
+        5815.78,
+        801.8,
+        2839.79,
+        1101.2400000000002,
+        255.57999999999998,
+        770.0899999999999,
+        -795.2200000000003,
+        -9.75,
+        -481.7,
+        1951.8700000000001
+      ]
+    }
+  ],
+  "situazione_debitoria_e_creditizia": {},
+  "andamento_economico": {},
+  "analisi_stagionalita": {
+    "per_anno_fiscale": [
+      {
+        "name": "2023",
+        "type": "line",
+        "x_axis": [
+          "Gen",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Mag",
+          "Giu",
+          "Lug",
+          "Ago",
+          "Set",
+          "Ott",
+          "Nov",
+          "Dic"
+        ],
+        "y_axis_range": [
+          -1425.3420000000003,
+          7984.122
+        ],
+        "ricavi": [
+          4330,
+          662,
+          7200,
+          1100,
+          4877.55,
+          3100,
+          803,
+          815.79,
+          1810,
+          550,
+          0,
+          2530.09
+        ],
+        "costi": [
+          1100.25,
+          595.92,
+          1384.2199999999998,
+          298.2,
+          2037.76,
+          1843.76,
+          494.42,
+          45.7,
+          2451.2200000000003,
+          559.75,
+          481.7,
+          886.8000000000001
+        ],
+        "primo_margine": [
+          3229.75,
+          66.08000000000004,
+          5815.780000000001,
+          801.8,
+          2839.79,
+          1256.24,
+          308.58,
+          770.0899999999999,
+          -641.2200000000003,
+          -9.75,
+          -481.7,
+          1643.29
+        ]
+      },
+      {
+        "name": "2022",
+        "type": "line",
+        "x_axis": [
+          "Gen",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Mag",
+          "Giu",
+          "Lug",
+          "Ago",
+          "Set",
+          "Ott",
+          "Nov",
+          "Dic"
+        ],
+        "y_axis_range": [
+          -560.442,
+          3978.222
+        ],
+        "ricavi": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          603.13,
+          1522.05,
+          1660,
+          3600,
+          1600,
+          2055.62
+        ],
+        "costi": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          159.55,
+          233.01,
+          1842.22,
+          754.8700000000001,
+          1765.85,
+          1330.74
+        ],
+        "primo_margine": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          443.58,
+          1289.04,
+          -182.22000000000003,
+          2845.13,
+          -165.8499999999999,
+          724.8799999999999
+        ]
+      },
+      {
+        "name": "2021",
+        "type": "line",
+        "x_axis": [
+          "Gen",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Mag",
+          "Giu",
+          "Lug",
+          "Ago",
+          "Set",
+          "Ott",
+          "Nov",
+          "Dic"
+        ],
+        "y_axis_range": [
+          0,
+          0
+        ],
+        "ricavi": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "costi": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "primo_margine": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "per_ultimi_12_mesi": [
+      {
+        "name": "Ultimi 12 mesi",
+        "type": "line",
+        "x_axis": [
+          "Dic",
+          "Gen",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Mag",
+          "Giu",
+          "Lug",
+          "Ago",
+          "Set",
+          "Ott",
+          "Nov"
+        ],
+        "y_axis_range": [
+          -1510.985,
+          3824.635
+        ],
+        "ricavi": [
+          0,
+          1150,
+          0,
+          2220,
+          3380,
+          0,
+          1004.04,
+          1390,
+          1600,
+          2390,
+          180,
+          2900
+        ],
+        "costi": [
+          505.22,
+          410.31,
+          842.13,
+          1707.8200000000002,
+          519.97,
+          1066.35,
+          472.78000000000003,
+          970.8600000000001,
+          907.9,
+          895.04,
+          935.9,
+          476.66
+        ],
+        "primo_margine": [
+          -505.22,
+          739.69,
+          -842.13,
+          512.1799999999998,
+          2860.0299999999997,
+          -1066.35,
+          531.26,
+          419.1399999999999,
+          692.1,
+          1494.96,
+          -755.9,
+          2423.34
+        ]
+      },
+      {
+        "name": "12 mesi precedenti",
+        "type": "line",
+        "x_axis": [
+          "Dic",
+          "Gen",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Mag",
+          "Giu",
+          "Lug",
+          "Ago",
+          "Set",
+          "Ott",
+          "Nov"
+        ],
+        "y_axis_range": [
+          -1425.3420000000003,
+          7984.122
+        ],
+        "ricavi": [
+          2055.62,
+          4330,
+          662,
+          7200,
+          1100,
+          4877.55,
+          3100,
+          803,
+          815.79,
+          1810,
+          550,
+          0
+        ],
+        "costi": [
+          1271.32,
+          1100.25,
+          595.92,
+          1384.2199999999998,
+          298.2,
+          2037.76,
+          1843.76,
+          494.42,
+          45.7,
+          2451.2200000000003,
+          559.75,
+          379.38
+        ],
+        "primo_margine": [
+          784.3,
+          3229.75,
+          66.08000000000004,
+          5815.780000000001,
+          801.8,
+          2839.79,
+          1256.24,
+          308.58,
+          770.0899999999999,
+          -641.2200000000003,
+          -9.75,
+          -379.38
+        ]
+      }
+    ]
+  },
+  "conte_economico": {
+    "Ricavi": {
+      "key": "Totale ricavi",
+      "Periodo di riferimento": "0",
+      "Year to date": "19719.04",
+      "Last year to date": "27778.43",
+      "Variazione YTD": "-29.01 %",
+      "Ultimi 12 mesi": "19719.04",
+      "12 mesi precedenti": "29834.05",
+      "Variazione 12 mesi": "-33.90 %",
+      "anno fiscale precedente 2023": "27778.43",
+      "anno fiscale antecedente 2022": "11040.8",
+      "Variazione ultimi due anni fiscali": "151.60 %"
+    },
+    "Costi": {
+      "key": "Costi fissi e variabili cumulativi",
+      "Periodo di riferimento": "86.06",
+      "Year to date": "9695.99",
+      "Last year to date": "11674.48",
+      "Variazione YTD": "-16.95 %",
+      "Ultimi 12 mesi": "10201.21",
+      "12 mesi precedenti": "12945.8",
+      "Variazione 12 mesi": "-21.20 %",
+      "anno fiscale precedente 2023": "12179.7",
+      "anno fiscale antecedente 2022": "6086.24",
+      "Variazione ultimi due anni fiscali": "100.12 %"
+    },
+    "Margine lordo": [
+      {
+        "key": "Costo del lavoro",
+        "Periodo di riferimento": "-",
+        "Year to date": "-",
+        "Last year to date": "-",
+        "Variazione YTD": "-",
+        "Ultimi 12 mesi": "-",
+        "12 mesi precedenti": "-",
+        "Variazione 12 mesi": "-",
+        "anno fiscale precedente 2023": "-",
+        "anno fiscale antecedente 2022": "-",
+        "Variazione ultimi due anni fiscali": "-"
+      },
+      {
+        "key": "Altri costi operativi",
+        "Periodo di riferimento": "-",
+        "Year to date": "-",
+        "Last year to date": "-",
+        "Variazione YTD": "-",
+        "Ultimi 12 mesi": "-",
+        "12 mesi precedenti": "-",
+        "Variazione 12 mesi": "-",
+        "anno fiscale precedente 2023": "-",
+        "anno fiscale antecedente 2022": "-",
+        "Variazione ultimi due anni fiscali": "-"
+      },
+      {
+        "key": "Margine lordo",
+        "Periodo di riferimento": "-86.06",
+        "Year to date": "10023.05",
+        "Last year to date": "16103.95",
+        "Variazione YTD": "-37.76 %",
+        "Ultimi 12 mesi": "9517.83",
+        "12 mesi precedenti": "16888.25",
+        "Variazione 12 mesi": "-43.64 %",
+        "anno fiscale precedente 2023": "15598.73",
+        "anno fiscale antecedente 2022": "4954.56",
+        "Variazione ultimi due anni fiscali": "214.84 %"
+      }
+    ],
+    "Ebitda": {
+      "key": "EBITDA",
+      "Periodo di riferimento": "-86.06",
+      "Year to date": "10023.05",
+      "Last year to date": "16103.95",
+      "Variazione YTD": "-37.76 %",
+      "Ultimi 12 mesi": "9517.83",
+      "12 mesi precedenti": "16888.25",
+      "Variazione 12 mesi": "-43.64 %",
+      "anno fiscale precedente 2023": "15598.73",
+      "anno fiscale antecedente 2022": "4954.56",
+      "Variazione ultimi due anni fiscali": "214.84 %"
+    },
+    "Costi non operativi": [
+      {
+        "key": "Oneri finanziari e bancari (+/-)",
+        "Periodo di riferimento": "N.P",
+        "Year to date": "N.P",
+        "Last year to date": "N.P",
+        "Variazione YTD": "-",
+        "Ultimi 12 mesi": "N.P",
+        "12 mesi precedenti": "N.P",
+        "Variazione 12 mesi": "-",
+        "anno fiscale precedente 2023": "N.P",
+        "anno fiscale antecedente 2022": "N.P",
+        "Variazione ultimi due anni fiscali": "-"
+      },
+      {
+        "key": "Ammortamenti svalutazioni e altri accantonamenti",
+        "Periodo di riferimento": "N.P",
+        "Year to date": "N.P",
+        "Last year to date": "N.P",
+        "Variazione YTD": "-",
+        "Ultimi 12 mesi": "N.P",
+        "12 mesi precedenti": "N.P",
+        "Variazione 12 mesi": "-",
+        "anno fiscale precedente 2023": "N.P",
+        "anno fiscale antecedente 2022": "N.P",
+        "Variazione ultimi due anni fiscali": "-"
+      },
+      {
+        "key": "Imposte sul reddito",
+        "Periodo di riferimento": "0",
+        "Year to date": "0",
+        "Last year to date": "0",
+        "Variazione YTD": "-",
+        "Ultimi 12 mesi": "0",
+        "12 mesi precedenti": "0",
+        "Variazione 12 mesi": "-",
+        "anno fiscale precedente 2023": "0",
+        "anno fiscale antecedente 2022": "0",
+        "Variazione ultimi due anni fiscali": "-"
+      }
+    ],
+    "Utile di Periodo": {
+      "key": "Utile di Periodo",
+      "Periodo di riferimento": "-86.06",
+      "Year to date": "10023.05",
+      "Last year to date": "16103.95",
+      "Variazione YTD": "-37.76 %",
+      "Ultimi 12 mesi": "9517.83",
+      "12 mesi precedenti": "16888.25",
+      "Variazione 12 mesi": "-43.64 %",
+      "anno fiscale precedente 2023": "15598.73",
+      "anno fiscale antecedente 2022": "4954.56",
+      "Variazione ultimi due anni fiscali": "214.84 %"
+    }
+  }
+}
